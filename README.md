@@ -14,7 +14,7 @@
 <img align="left" alt="Top Languages" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/top-langs/?username=ClaudiaSouza1812&show_icons=true&hide_border=true&layout=compact&langs_count=20" />
 
   
-<img align="left" alt="Github Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api?username=ClaudiaSouza1812&show_icons=true&hide_border=true&show=prs_merged,prs_merged_percentage&hide=stars,total_issues" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api?username=ClaudiaSouza1812&show_icons=true&hide_border=true&show=prs_merged,prs_merged_percentage&hide=stars,issues" />
 
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact)
