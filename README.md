@@ -10,6 +10,6 @@
 - 📫 How to reach me: [...](https://www.linkedin.com/in/claudiasouza1812)
 
 ### <details>
-  <sumary>:zap Github Stats</sumary>
+  <sumary>:zap: Github Stats</sumary>
   <img align="left" alt="ClaudiaSimone1812's Github Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api?username=ClaudiaSouza1812&show_icons=true&hide_border=true" />
 </details>
