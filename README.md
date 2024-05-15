@@ -11,5 +11,5 @@
 
 ### <details>
   <sumary>:zap: Github Stats</sumary>
-  <img align="left" alt="ClaudiaSimone1812's Github Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api?username=ClaudiaSouza1812&show_icons=true&hide_border=true" />
+  <img align="left" alt="ClaudiaSimone1812's Github Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api?username=ClaudiaSouza1812&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </details>
