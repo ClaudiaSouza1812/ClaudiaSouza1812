@@ -10,7 +10,7 @@
 
 ### <details>
 
-- ⚡ "Harlok's WakaTime stats Since May 16 2024"
+- ⚡ "WakaTime Stats Since May 16 2024"
 
 <img align="left" alt="Wakatime Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact" /> 
 
