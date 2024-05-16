@@ -5,8 +5,7 @@
 - ⚡ I'm Harvard's CS50x certified.
 - 🌱 I’m currently learning C#, .NET Framework, TSQL, SQL Server.
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I'm looking for help to get more development experience.
-- 💬 Ask me about development with Python and C#.
+- 💬 Ask me about development with Python, C# and C.
 - 📫 How to reach me: [...](https://www.linkedin.com/in/claudiasouza1812)
 
 ### <details>
