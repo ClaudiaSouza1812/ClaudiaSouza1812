@@ -10,7 +10,7 @@
 
 ### <details>
 
-<img align="left" alt="Top Languages" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/top-langs/?username=ClaudiaSouza1812&show_icons=true&layout=compact&langs_count=20&hide_border=true&custom_title=%E2%9A%A1%20Top%20Languages%20Since%20May%2016,%202024&card_width=490px" />
+<img align="left" alt="Top Languages" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/top-langs/?username=ClaudiaSouza1812&show_icons=true&layout=compact&langs_count=20&hide_border=true&custom_title=%E2%9A%A1%20Top%20Languages%20Since%20Jun%202023&card_width=490px" />
 
 <img align="left" alt="Wakatime Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&custom_title=%E2%9A%A1%20Wakatime%20Stats%20Since%20May%2016,%202024&card_width=490px&hide_border=true&display_format=percent" /> 
 
