@@ -16,9 +16,9 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api?username=ClaudiaSouza1812&show_icons=true&hide_border=true&hide=stars,issues,prs&show=prs_merged_percentage" />
 
 
-[![Harlok's WakaTime stats since May 16 2024](https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact)
+<img align="left" alt="Github Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact" />
 
-
+<!-- [![Harlok's WakaTime stats since May 16 2024](https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact) -->
 
 </details>
 
