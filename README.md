@@ -17,7 +17,7 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api?username=ClaudiaSouza1812&show_icons=true&hide_border=true&hide=stars,issues,prs&show=prs_merged_percentage&custom_title=%E2%9A%A1%20Github%20Stats%20Since%20May%2016,%202024&include_all_commits=true&card_width=490px" />
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
 
 
 <!-- [![Harlok's WakaTime stats since May 16 2024](https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact) -->
