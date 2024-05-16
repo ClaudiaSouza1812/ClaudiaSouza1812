@@ -12,7 +12,7 @@
 
 - ⚡ "WakaTime Stats Since May 16 2024"
 
-<img align="left" alt="Wakatime Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&custom_title=Waka Time Stats Since May2024" /> 
+<img align="left" alt="Wakatime Stats" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&custom_title=Waka_Time_Stats_Since_May2024" /> 
 
 <img align="left" alt="Top Languages" src="https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/top-langs/?username=ClaudiaSouza1812&show_icons=true&layout=compact&langs_count=20&hide_border=false" />
 
