@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on C# projects (.NET Framework) at PRIMAVERA Academy (Cegid) Full Stack formation. 
 - ⚡ I'm Harvard's CS50x certified.
-- 🌱 I’m currently learning C#, .NET Framework, TSQL, SQL Server.
+- 🌱 I’m currently learning C#, .NET Framework, .NET, TSQL.
 - 🕹️ I'm a proud developer of Fulano's game: https://scratch.mit.edu/projects/777570391
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about development with Python, C# and C.
