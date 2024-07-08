@@ -1,0 +1,35 @@
+﻿// Class Person:
+            //  2 propriedades: Name, City
+            //  2 construtores
+            //  1 método: ListPerson
+
+-----------------------------
+ESTRUTURAS DE DADOS (memória)
+-----------------------------
+
+Variables
+
+Arrays
+    Vetores (single dimension)
+    Matrizes (multi dimension)
+
+Collections
+    ArrayList
+        Normal
+        Generic
+
+-----------------------------
+ARRAYLIST
+-----------------------------
+Arraylist é fracamente tipada (weakly typed)
+    Pode conter qualquer tipo de dados
+
+GENERIC COLLECTIONS
+    fortemente tipada
+    constraint do data type
+
+    List<T>
+    Queue<T>: fila - FIFO (first-in-first-out)
+    Stack<T>: pilha - LIFO (last-in-first-out)
+
+
