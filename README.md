@@ -1,5 +1,5 @@
 ### Hi there, welcome! 👋
-### I'm a Full Stack Developer in development, get to know me better:
+### I'm a Developer in development, get to know me better:
 
 - 🔭 I’m currently working on C# projects (.NET) at PRIMAVERA Academy (Cegid) Full Stack formation. 
 - ⚡ I'm Harvard's CS50x certified.
