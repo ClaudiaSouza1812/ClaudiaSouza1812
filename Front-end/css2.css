@@ -69,6 +69,21 @@ RGB colors:
     rgb(23, 56, 234)
     rgb(50%, 25%, 67%)
 
+hsl():
+    hue, saturation, lightness
+    hsl(150deg 30% 60%);
+
+Transparência/opacidade:
+    cor - transparent
+    propriedade opacity
+    opacity: 0; - transparente
+    opacity: 1; - opaco
+
+    transparencia varia entre 0 e 1 e, incrementos de 0.05
+    rgba(23, 56, 234, 0.55) - com transparencia
+    hsla(150deg 30% 60% 0.55)
+    #RRGGBBAA ou #rrbbggaa
+    #23efc634
 */
 
 
@@ -78,6 +93,12 @@ RGB colors:
     /* color: #23a5ef; */
     /* color: #ff0; */
     /* color: rgb(35, 255, 0); */
-    color: rgb(50%, 25%, 67%);
+    /* color: rgb(50%, 25%, 67%); */
+    /* color: hsl(150deg 30% 60%); */
+    /* color: transparent; */
+    /* opacity: 0; */
+    /* color: rgba(23, 56, 234, 0.55); */
+    color: #23efc6;
+    color: #23efc634;
 
 }
