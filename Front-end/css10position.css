@@ -6,6 +6,7 @@ img {
 body {
     /* para não mostrar a barra de scroll vertical */
     /* overflow-y: hidden; */
+    margin: 0;
 }
 .destaque {
     background-color: blue;
@@ -34,6 +35,7 @@ body {
     width: 100vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.65);
+    z-index: 10;
 }
 
 #modalContent {
@@ -73,4 +75,30 @@ body {
     box-shadow: none;
     top: -11px;
     right: -17px;
+}
+
+#menu {
+    box-sizing: border-box;
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* width: 100vw; */
+    /* height: 100vh; */
+    box-sizing: border-box;
+    background-color: white;
+    padding: 20px 0;
+    z-index: 20;
+}
+
+#menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#menu li {
+    margin: 0 20px;
 }
