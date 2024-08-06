@@ -3,6 +3,15 @@ img {
     max-width: 100%;
 }
 
+body {
+    /* para não mostrar a barra de scroll vertical */
+    /* overflow-y: hidden; */
+}
+.destaque {
+    background-color: blue;
+    color: white;
+}
+
 #landscape {
     position: relative;
 }
@@ -14,4 +23,54 @@ img {
     /* top: 400px; */
     right: 0;
     bottom: 0;
+}
+
+#modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* width: 100%;
+    height: 100%; */
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+#modalContent {
+    background-color: white;
+    padding: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /* margin-left: -75px;
+    margin-top: -75px; */
+    transform: translate(-50%, -50%);
+}
+
+#btClose {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: -14px;
+    right: -14px;
+    background-color: white;
+    line-height: 22px;
+    width: 22px;
+    text-align: center;
+    font-weight: bold;
+    border: 3px solid #666;
+    border-radius: 50%;
+    box-shadow: 3px 3px 5px #000;
+    user-select: none;
+}
+
+#btClose:hover {
+    background-color: #666;
+    color: white;
+    cursor: pointer;
+}
+
+#btClose:active {
+    box-shadow: none;
+    top: -11px;
+    right: -17px;
 }
