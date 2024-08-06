@@ -1,0 +1,17 @@
+
+img {
+    max-width: 100%;
+}
+
+#landscape {
+    position: relative;
+}
+
+#landscape h2 {
+    /* margin-top: -300px; */
+    color: white; 
+    position: absolute;
+    /* top: 400px; */
+    right: 0;
+    bottom: 0;
+}
