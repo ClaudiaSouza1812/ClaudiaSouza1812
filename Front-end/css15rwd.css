@@ -1,0 +1,52 @@
+/* 
+RWD - Responsive Web Design
+(Design responsivo)
+
+- flexible layouts - %, em/rem
+- flexible media (imagens, videos...)
+- media queries
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+*/
+
+img { 
+    /* max-width: 100%; */
+    height: auto;
+}
+
+.layout {
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+
+.layout>section {
+
+    box-sizing: border-box;
+    border: 1px solid #000;
+    padding: 20px;
+    flex: 1;
+}
+
+/* 
+
+resoluções de ecrãs
+
+<= 480px - (smartphones)
+<= 768px/800px - (tablets)
+<= 1024px - (desktop/notebook antigo)
+<= 1200px - (desktop/notebook menos antigo)
+1366px - (notebooks)
+<= 1400px - (desktops com ecrãs <=22")
+<= 1920px - (desktop FullHD)
+
+*/
+
+@media only screen  and (max-width: 480px) {
+    body {
+        background-color: aquamarine;
+    };
+    .layout {
+        display: block;
+    }
+}
