@@ -1,7 +1,0 @@
-cs50
-Flask
-Flask-Session
-requests
-os
-werkzeug.security
-decimal
