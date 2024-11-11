@@ -17,13 +17,16 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=10&hide=html,css)
+<!-- This one tends to be most accurate -->
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=github_dark&include_all_commits=true&count_private=true&show_percentage=true)
+
+<!-- Try this alternative that often shows better stats -->
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812&theme=github_dark&include_all_commits=true&count_private=true)
 
 <!-- For the donut chart, add show_percentage=true -->
 ![Language Distribution](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=github_dark&include_all_commits=true&count_private=true&show_percentage=true)
 
-<!-- Alternative layout with percentages -->
-![Detailed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&theme=tokyonight&include_all_commits=true&count_private=true&layout=donut&langs_count=10&hide=html,css)
+
 <!--
 ![Readme Card](https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/pin/?username=ClaudiaSouza1812)
 
