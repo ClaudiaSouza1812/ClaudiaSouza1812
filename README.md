@@ -16,12 +16,14 @@
 
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&layout=compact&theme=dark&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=github_dark&include_all_commits=true&count_private=true)
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=10&hide=html,css)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide=html,css&langs_count=8)
+<!-- For the donut chart, add show_percentage=true -->
+![Language Distribution](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=github_dark&include_all_commits=true&count_private=true&show_percentage=true)
 
+<!-- Alternative layout with percentages -->
+![Detailed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&theme=tokyonight&include_all_commits=true&count_private=true&layout=donut&langs_count=10&hide=html,css)
 <!--
 ![Readme Card](https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/pin/?username=ClaudiaSouza1812)
 
