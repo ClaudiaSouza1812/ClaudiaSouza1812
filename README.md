@@ -12,16 +12,23 @@
 
 ### <details>
 
-<img align="left" alt="Wakatime Stats" src="https://github-readme-stats-claudiasouza1812.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&custom_title=%E2%9A%A1%20WakaTime%20Stats%20Since%20May%202024&card_width=490px&hide_border=true&display_format=percent" /> 
 
-
+     
 ## 📊 GitHub Stats
 
-<!-- Try this alternative that often shows better stats -->
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812&theme=github_dark&include_all_commits=true&count_private=true)
-
-<!-- For the donut chart, add show_percentage=true -->
-![Language Distribution](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=github_dark&include_all_commits=true&count_private=true&show_percentage=true)
+<div align="center">
+  <!-- First row - WakaTime only -->
+  <img alt="Wakatime Stats" 
+       src="https://github-readme-stats-claudiasouza1812.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&theme=2077&custom_title=⚡%20WakaTime%20Stats%20Since%20May%202024&card_width=1012&hide_border=true&display_format=percent&bg_color=141321&text_color=A9FEF7&title_color=A9FEF7" />
+  
+  <!-- Second row -->
+  <img width="495" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudiaSouza1812&theme=2077" />
+  <img width="495" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=2077" />
+  
+  <!-- Third row -->
+  <img width="495" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812&theme=2077" />
+  <img width="495" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudiaSouza1812&theme=2077" />
+</div>
 
 
 <!--
