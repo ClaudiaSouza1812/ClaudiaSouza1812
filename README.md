@@ -14,6 +14,12 @@
 
 <img align="left" alt="Wakatime Stats" src="https://github-readme-stats-claudiasouza1812.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&custom_title=%E2%9A%A1%20WakaTime%20Stats%20Since%20May%202024&card_width=490px&hide_border=true&display_format=percent" /> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&layout=compact&theme=dark)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&layout=compact&theme=tokyonight&hide=html,css&langs_count=8)
+
 <!--
 ![Readme Card](https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/pin/?username=ClaudiaSouza1812)
 
