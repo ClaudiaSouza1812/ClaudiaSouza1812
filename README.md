@@ -18,9 +18,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&layout=compact&theme=dark&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=github_dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=github_dark&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&layout=compact&theme=tokyonight&hide=html,css&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaSouza1812&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide=html,css&langs_count=8)
 
 <!--
 ![Readme Card](https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/pin/?username=ClaudiaSouza1812)
