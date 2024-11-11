@@ -17,9 +17,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- This one tends to be most accurate -->
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=github_dark&include_all_commits=true&count_private=true&show_percentage=true)
-
 <!-- Try this alternative that often shows better stats -->
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812&theme=github_dark&include_all_commits=true&count_private=true)
 
