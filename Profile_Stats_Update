@@ -1,26 +1,47 @@
 name: Profile Stats Update
 on:
   schedule:
-    - cron: "0 0 * * *"  # Fixed the cron syntax
-  workflow_dispatch:      
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       
-      - name: GitHub Stats
+      - name: Generate GitHub Stats
         uses: anmol098/github-profile-readme-generator@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          INCLUDE_ALL_COMMITS: "true"     # Changed to lowercase
-          COUNT_PRIVATE: "true"           # Added this
-          INCLUDE_PRIVATE: "true"         # Changed to lowercase
+          SHOW_LANGUAGE: "true"
+          SHOW_LANGUAGE_PER_REPO: "true"
+          INCLUDE_ALL_COMMITS: "true"
+          COUNT_PRIVATE: "true"
+          INCLUDE_PRIVATE: "true"
           SHOW_TOTAL_CONTRIBUTIONS: "true"
           SHOW_YEARLY_CONTRIBUTIONS: "true"
-          COMMITS_PER_YEAR: "true"        # Added this
-          CALCULATE_TOTAL_COMMITS: "true"  # Added this
-          INCLUDE_ALL_YEARS: "true"       # Added this
+          COMMITS_PER_YEAR: "true"
+          CALCULATE_TOTAL_COMMITS: "true"
+          INCLUDE_ALL_YEARS: "true"
+          SHOW_LINES_OF_CODE: "true"
+          SHOW_COMMIT: "true"
+          SHOW_PROFILE_VIEWS: "true"
+          SHOW_TOTAL_CONTRIBUTIONS: "true"
+          SHOW_LAST_UPDATED: "true"
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: ClaudiaSouza1812
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      - name: Update README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Updated README with latest stats" || exit 0
+          git push
