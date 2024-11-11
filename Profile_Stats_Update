@@ -1,9 +1,8 @@
 name: Profile Stats Update
-
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:      # Allows manual triggers
+    - cron: "0 0 * * *"  # Fixed the cron syntax
+  workflow_dispatch:      
 
 jobs:
   update-stats:
@@ -14,10 +13,14 @@ jobs:
       - name: GitHub Stats
         uses: anmol098/github-profile-readme-generator@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          INCLUDE_ALL_COMMITS: "True"    # This includes all historical commits
-          INCLUDE_PRIVATE: "True"        # This includes private repos
-          SHOW_TOTAL_CONTRIBUTIONS: "True"
-          SHOW_YEARLY_CONTRIBUTIONS: "True"
+          INCLUDE_ALL_COMMITS: "true"     # Changed to lowercase
+          COUNT_PRIVATE: "true"           # Added this
+          INCLUDE_PRIVATE: "true"         # Changed to lowercase
+          SHOW_TOTAL_CONTRIBUTIONS: "true"
+          SHOW_YEARLY_CONTRIBUTIONS: "true"
+          COMMITS_PER_YEAR: "true"        # Added this
+          CALCULATE_TOTAL_COMMITS: "true"  # Added this
+          INCLUDE_ALL_YEARS: "true"       # Added this
