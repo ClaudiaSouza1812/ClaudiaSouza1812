@@ -18,18 +18,18 @@
 
 <div align="center">
   <!-- First row - WakaTime spans full width -->
-  <img width="890" alt="Wakatime Stats" 
+  <img width="690" alt="Wakatime Stats" 
        src="https://github-readme-stats-claudiasouza1812.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&theme=2077&custom_title=⚡%20WakaTime%20Stats%20Since%20May%202024&hide_border=true&display_format=percent&bg_color=141321&text_color=A9FEF7&title_color=A9FEF7" />
   <br>
   
   <!-- Second row - Stats and Languages by Repo -->
-  <img width="440" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudiaSouza1812&theme=2077" />
-  <img width="440" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=2077" />
+  <img width="340" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudiaSouza1812&theme=2077" />
+  <img width="340" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=2077" />
   <br>
   
   <!-- Third row - Languages by Commit and Profile Details -->
-  <img width="440" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812&theme=2077" />
-  <img width="440" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudiaSouza1812&theme=2077" />
+  <img width="340" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812&theme=2077" />
+  <img width="340" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudiaSouza1812&theme=2077" />
 </div>
 
 
