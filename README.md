@@ -11,7 +11,9 @@
 
 
 ### <details>
-
+<!-- 
+<img align="left" alt="Top Languages" src="https://github-readme-stats-claudiasouza1812.vercel.app/api/top-langs/?username=ClaudiaSouza1812&show_icons=true&layout=compact&langs_count=20&hide_border=true&custom_title=%E2%9A%A1%20Top%20Languages%20Since%20Jun%202023&card_width=490px" />
+-->
 
      
 ## 📊 Wakatime Stats
@@ -25,7 +27,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudiaSouza1812&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812&theme=2077)
