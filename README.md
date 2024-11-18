@@ -14,10 +14,14 @@
 ### <details>
 <!-- 
 <img align="left" alt="Top Languages" src="https://github-readme-stats-claudiasouza1812.vercel.app/api/top-langs/?username=ClaudiaSouza1812&show_icons=true&layout=compact&langs_count=20&hide_border=true&custom_title=%E2%9A%A1%20Top%20Languages%20Since%20Jun%202023&card_width=490px" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudiaSouza1812&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudiaSouza1812&theme=2077)
 -->
 
 ## 📊 Contribution Overview
-![3D contrib](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="https://github.com/ClaudiaSouza1812/github_readme-stats-claudiasouza1812/blob/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D contrib">
+
 
      
 ## 📊 Wakatime Stats
@@ -25,17 +29,17 @@
 <div align="center">
   <!-- First row - WakaTime spans full width -->
   <img width="690" alt="Wakatime Stats" 
-       src="https://github-readme-stats-claudiasouza1812.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&theme=2077&custom_title=⚡%20WakaTime%20Stats%20Since%20May%202024&hide_border=true&display_format=percent&bg_color=141321&text_color=A9FEF7&title_color=A9FEF7" />
+       src="https://github-readme-stats-claudiasouza1812.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&custom_title=⚡%20WakaTime%20Stats%20Since%20May%202024&display_format=percent" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudiaSouza1812&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudiaSouza1812&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812)
+
   
 </div>
 <!--
