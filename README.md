@@ -17,7 +17,7 @@
 -->
 
 ## 📊 Contribution Overview
-<img src="https://raw.githubusercontent.com/ClaudiaSouza1812/ClaudiaSouza1812/master/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contrib">
+![3D contrib](./profile-3d-contrib/profile-green-animate.svg)
 
      
 ## 📊 Wakatime Stats
