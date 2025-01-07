@@ -16,14 +16,13 @@
 <img align="left" alt="Top Languages" src="https://github-readme-stats-claudiasouza1812.vercel.app/api/top-langs/?username=ClaudiaSouza1812&show_icons=true&layout=compact&langs_count=20&hide_border=true&custom_title=%E2%9A%A1%20Top%20Languages%20Since%20Jun%202023&card_width=490px" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudiaSouza1812&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudiaSouza1812&theme=2077)
--->
 
 ## 📊 Contribution Overview
 
 <img src="https://github.com/ClaudiaSouza1812/github_readme-stats-claudiasouza1812/blob/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D contrib">
 
+-->
 
-     
 ## 📊 Wakatime Stats
 
 <div align="center">
