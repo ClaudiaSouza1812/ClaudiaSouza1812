@@ -1,46 +1,4 @@
-### Hi there, welcome! 👋
-### Get to know me better:
 
-- 🔭 I’m currently working on C# projects (.NET) at PRIMAVERA Academy (Cegid) Full Stack formation. 
-- ⚡ I'm Harvard's CS50x certified.
-- 🌱 I’m currently learning C#, TSQL, .NET Core MVC, Angular, TypeScript, HTML, CSS, JavaScript.
-- 🕹️ I'm a proud developer of Fulano's game: https://scratch.mit.edu/projects/777570391
-- 📫 How to reach me: [...](https://www.linkedin.com/in/claudiasouza1812)
-- - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about development with Python, C# and C.
-
-
-
-### <details>
-<!-- 
-<img align="left" alt="Top Languages" src="https://github-readme-stats-claudiasouza1812.vercel.app/api/top-langs/?username=ClaudiaSouza1812&show_icons=true&layout=compact&langs_count=20&hide_border=true&custom_title=%E2%9A%A1%20Top%20Languages%20Since%20Jun%202023&card_width=490px" />
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudiaSouza1812&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudiaSouza1812&theme=2077)
-
-## 📊 Contribution Overview
-
-<img src="https://github.com/ClaudiaSouza1812/github_readme-stats-claudiasouza1812/blob/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D contrib">
-
--->
-
-## 📊 Wakatime Stats
-
-<div align="center">
-  <!-- First row - WakaTime spans full width -->
-  <img width="690" alt="Wakatime Stats" 
-       src="https://github-readme-stats-claudiasouza1812.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&custom_title=⚡%20WakaTime%20Stats%20Since%20May%202024&display_format=percent" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812)
-
-  
-</div>
 <!--
 ![Readme Card](https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/pin/?username=ClaudiaSouza1812)
 
@@ -49,6 +7,61 @@
 [![Harlok's WakaTime stats since May 2023](https://github-readme-stats-claudia-simone-de-souzas-projects.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact) 
 -->
 
-</details>
+### Hi there, welcome! 👋
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClaudiaSouza1812&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views+Since+Feb+2025&edge_flat=true)
+
+### Get to know me better:
+- 🔭 Currently working as a Freelance Developer 
+- ⚡ Harvard's CS50x & Cegid PRIMAVERA Academy RE_Start Full Stack certified
+- 🌱 Continuously learning Python, C#, SQL and Angular
+- 🕹️ Developer of Fulano's game: [Play it on Scratch](https://scratch.mit.edu/projects/777570391)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/claudiasouza1812)
+- 👯 Looking to collaborate on open source projects
+- 💬 Ask me about Python and C# development
+
+## 🛠️ Skills & Technologies
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-FF4081?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![TSQL](https://img.shields.io/badge/TSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🎓 Certifications
+![Harvard CS50](https://img.shields.io/badge/Harvard-CS50x-blue?style=for-the-badge)
+![Cegid Primavera](https://img.shields.io/badge/Cegid_Primavera-Full%20Stack-blue?style=for-the-badge)
+![Scrum Foundation](https://img.shields.io/badge/Scrum_Foundation-SFPC™-blue?style=for-the-badge)
+
+## 📊 Wakatime Stats
+<div align="center">
+  <img width="690" alt="Wakatime Stats" 
+       src="https://github-readme-stats-claudiasouza1812.vercel.app/api/wakatime?username=ClaudiaSouza1812&layout=compact&custom_title=⚡%20WakaTime%20Stats%20Since%20May%202024&display_format=percent" />
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudiaSouza1812)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudiaSouza1812)
+
+</div>
 
 
