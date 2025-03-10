@@ -35,6 +35,7 @@
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=for-the-badge&logo=azure-data-studio&logoColor=white)
 
 ### Tools & Platforms
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
