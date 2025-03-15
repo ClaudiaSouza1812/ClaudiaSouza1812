@@ -19,12 +19,8 @@
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about Python and C# development
 
-
-[![IBM SkillsBuild Data Fundamentals Badge](images/data-fundamentals.png)](https://www.credly.com/badges/e5a6d246-441a-4150-9206-51529bf25656/public_url)
-
-
 ## 🛠️ Skills & Technologies
-### Languages & Frameworks
+### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -36,12 +32,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![TSQL](https://img.shields.io/badge/TSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=for-the-badge&logo=azure-data-studio&logoColor=white)
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,8 +48,9 @@
 
 ## 🎓 Certifications
 ![Harvard CS50](https://img.shields.io/badge/Harvard-CS50x-blue?style=for-the-badge)
-![Cegid Primavera](https://img.shields.io/badge/Cegid_Primavera-Full%20Stack-blue?style=for-the-badge)
+![Cegid Primavera](https://img.shields.io/badge/Cegid_Primavera-Full%20Stack_Developer-blue?style=for-the-badge)
 ![Scrum Foundation](https://img.shields.io/badge/Scrum_Foundation-SFPC™-blue?style=for-the-badge)
+![IBM](https://img.shields.io/badge/IBM-Data_Fundamentals-blue?style=for-the-badge)
 
 ## 📊 Wakatime Stats
 <div align="center">
