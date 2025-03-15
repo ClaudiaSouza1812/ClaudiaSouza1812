@@ -19,6 +19,10 @@
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about Python and C# development
 
+
+[![IBM SkillsBuild Data Fundamentals Badge](images/data-fundamentals.png)](https://www.credly.com/badges/e5a6d246-441a-4150-9206-51529bf25656/public_url)
+
+
 ## 🛠️ Skills & Technologies
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
