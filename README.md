@@ -8,8 +8,7 @@
 -->
 
 ### Hi there, welcome! 👋
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClaudiaSouza1812&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views+Since+Feb+2025&edge_flat=true)
-
+![Visitor Count](https://profile-counter.glitch.me/ClaudiaSouza1812/count.svg)
 ### Get to know me better:
 - 🔭 Currently working as a Freelance Developer 
 - ⚡ Harvard's CS50x & Cegid PRIMAVERA Academy RE_Start Full Stack certified
