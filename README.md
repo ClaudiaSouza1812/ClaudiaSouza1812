@@ -8,7 +8,9 @@
 -->
 
 ### Hi there, welcome! 👋
-![Visitor Count](https://profile-counter.glitch.me/ClaudiaSouza1812/count.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ClaudiaSouza1812&color=brightgreen&style=flat&label=😉)
+
 ### Get to know me better:
 - 🔭 Currently working as a Freelance Developer 
 - ⚡ Harvard's CS50x & Cegid PRIMAVERA Academy RE_Start Full Stack certified
